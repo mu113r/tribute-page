@@ -1,0 +1,24 @@
+
+#body {
+    background-color:darkgray;
+    margin-top:auto;
+    margin-bottom: auto;
+    padding: 20px;
+    text-align: center;
+    width: 350px;
+}
+
+img {
+    border-radius: 100%;
+    width: 33%;
+}
+
+
+#main_text {
+    text-align: justify;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
